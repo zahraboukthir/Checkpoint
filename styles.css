@@ -1,0 +1,28 @@
+*{
+    font: roboto;
+}
+.navbar{
+    font-weight: bold;
+    background-color: cadetblue;
+    color: #fff;
+    width: 100%;
+    display: inline;
+    
+ 
+}
+h1 {
+	color:blue;
+	font-family: roboto;
+	text-align: center;
+}
+p{  font-family: roboto;
+    text-align: center;   
+}
+table{width: 100%;}
+table, th, td {
+     border: 1px solid black;
+    margin: 50;
+  }
+  .video{
+      padding: center;
+  }
